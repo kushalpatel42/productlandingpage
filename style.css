@@ -1,0 +1,33 @@
+/* . {
+    margin: auto;
+    padding: auto;
+} */
+
+.{
+ width: 100px;
+    min-height: 500vh;
+    background-image: linear-gradient(to top, rgba (0,0,0,0.5)50%, rgba(0,0,0,0.5)50%), url(./12142135-slide-2560-x-1080-opera-by-jacobandco-the-godfather-mention-0_article_2000x844.jpg)
+   background-position: center;
+   background-size: cover;
+   position: relative;
+    
+    
+}
+
+button {
+    background-color: blue;   
+    color: white;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+a {
+    color: white;
+}
+h1#title{
+    display:flex;
+    justify-content: center;
+}
